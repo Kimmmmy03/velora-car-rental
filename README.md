@@ -111,3 +111,7 @@ import Button from '@/components/ui/Button'
 ## License
 
 This project is for educational purposes.
+
+## Contributors
+
+- [Kimmmmy03](https://github.com/Kimmmmy03)
